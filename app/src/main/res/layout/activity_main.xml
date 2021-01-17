@@ -22,7 +22,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="84dp"
         android:rotationX="0"
-        android:text="@string/textview"
+        android:text="."
         android:textAlignment="center"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
